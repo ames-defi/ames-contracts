@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"AShareRewardPool.sol": "Address"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"AShareRewardPool.sol": {
+			"keccak256": "0x8ac93647062a2b6282f5a389ccc0bf19039e0db815296cb671edffe403b3d0a7",
+			"license": "MIXED",
+			"urls": [
+				"bzz-raw://a0b58612da9a3826d0ea6566736368277c38ce97fd0a78d0106c3505288ffd72",
+				"dweb:/ipfs/QmS9MWMbZYD7PpMBmETLaGXf1qykApAhDZJXYKz4kDsWUw"
+			]
+		}
+	},
+	"version": 1
+}
