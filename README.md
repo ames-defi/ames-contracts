@@ -1,1 +1,1 @@
-########## Quartz.defi contracts ##########
+########## Ames.defi contracts ##########
